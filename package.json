@@ -1,1 +1,24 @@
-{"name":"kaleidosport-card","author":"Kaleidosport","description":"My NPX card","version":"1.0.1","type":"module","main":"card.js","bin":"./card.js","dependencies":{"boxen":"^6.2.1","chalk":"^5.0.0","clear":"^0.1.0","inquirer":"^8.2.0","listr":"^0.14.3","open":"^8.4.0","terminal-link":"^3.0.0"},"engines":{"node":"16.9.x","npm":"7.21.x"}}
+{
+  "name":"kaleidosport-card",
+  "author":"Kaleidosport",
+  "description":"My NPX card",
+  "version":"1.0.1",
+  "type":"module",
+  "main":"card.js",
+  "bin":"./card.js",
+  "dependencies":
+  {
+    "boxen":"^6.2.1",
+    "chalk":"^5.0.0",
+    "clear":"^0.1.0",
+    "inquirer":"^8.2.0",
+    "listr":"^0.14.3",
+    "open":"^8.4.0",
+    "terminal-link":"^3.0.0"
+  },
+  "engines":
+  {
+    "node":"16.9.x",
+    "npm":"7.21.x"
+  }
+}
