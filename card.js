@@ -89,4 +89,4 @@ const ME = BOXEN(
 
 PROMPT(QUESTIONS).then(answer => answer.action())
 
-// console.log(ME)
+console.log(ME)
