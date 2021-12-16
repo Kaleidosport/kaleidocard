@@ -87,6 +87,6 @@ const ME = BOXEN(
     }
 )
 
-PROMPT(QUESTIONS).then(answer => answer.action())
-
 console.log(ME)
+
+PROMPT(QUESTIONS).then(answer => answer.action())
