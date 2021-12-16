@@ -2,7 +2,7 @@
   "name":"kaleidosport-card",
   "author":"Kaleidosport",
   "description":"My NPX card",
-  "version":"1.0.2",
+  "version":"1.1.0",
   "type":"module",
   "main":"card.js",
   "bin":"./card.js",
